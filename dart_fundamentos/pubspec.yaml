@@ -1,0 +1,14 @@
+name: dart_fundamentos
+description: Projeto referente ao curso de dart fundamentos da academia do flutter
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.19.6 <3.0.0' #versao do dart
+
+dependencies:
+  path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
