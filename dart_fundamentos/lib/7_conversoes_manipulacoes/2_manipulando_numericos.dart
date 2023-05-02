@@ -3,7 +3,7 @@ void main() {
 
   print('Sua idade eh $idade');
 
-  if (idade.isNegative) print('Negatico');
+  if (idade.isNegative) print('Negativo');
 
   final valorDouble = 10.65;
   print(valorDouble.round()); //Arredonda e retorna int
